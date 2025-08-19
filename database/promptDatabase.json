@@ -1,0 +1,6008 @@
+[
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "working capital",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "working capital",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "London"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "working capital",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "London"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "London"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "working capital",
+    "City": "London"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "London"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "London"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "working capital",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "working capital",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "London"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "working capital",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "London"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "working capital",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "London"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "London"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "London"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "London"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "London"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Invoice finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "domiciliary care",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Leasing & asset finance",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "dental lab",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Property development finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Bristol"
+  },
+  {
+    "Sector": "dental practice",
+    "Loan Attributes": "Buy-to-let mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "stock inventory",
+    "City": "Glasgow"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "working capital",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Short-term & bridging finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Bradford"
+  },
+  {
+    "Sector": "pharmacy",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "practice acquisition",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "funding model transition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "working capital",
+    "City": "London"
+  },
+  {
+    "Sector": "private clinic",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "cosmetic clinic",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "refurbishment compliance",
+    "City": "Birmingham"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "cash flow management",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "optician",
+    "Loan Attributes": "Trade finance",
+    "Intent & Financial Context": "equipment purchase",
+    "City": "Sheffield"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "business expansion",
+    "City": "London"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "care home",
+    "Loan Attributes": "NHS contract bridging",
+    "Intent & Financial Context": "covid recovery",
+    "City": "Manchester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Unsecured finance",
+    "Intent & Financial Context": "working capital",
+    "City": "Leicester"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Commercial mortgages",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Leeds"
+  },
+  {
+    "Sector": "vet practice",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "business expansion",
+    "City": "Liverpool"
+  },
+  {
+    "Sector": "GP surgery",
+    "Loan Attributes": "Revenue-based finance",
+    "Intent & Financial Context": "property acquisition",
+    "City": "Birmingham"
+  }
+]
