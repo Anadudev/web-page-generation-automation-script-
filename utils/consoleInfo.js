@@ -23,7 +23,7 @@ const consoleInfo = async ( message, index ) => {
 
 	const start = setInterval( () => {
 		process.stdout.write(
-			"\r" + spinnerChars[ i++ ] + ` Page ${index} generation in progress...`
+			"\r" + spinnerChars[ i++ ] //+ ` Page ${index} generation in progress...`
 		);
 		i = i % spinnerChars.length;
 	}, 100 );

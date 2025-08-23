@@ -1241,7 +1241,6 @@ const doAi = async ( htmlFile, jsonData ) => {
 				🔑 Keyword Optimization
 				- Embed relevant long-tail keywords naturally:
 				- ${ jsonData[ "City" ] } ${ jsonData[ "Sector" ] } ${ jsonData[ "Loan Attributes" ] }
-				- UK elderly care property financing
 				- ${ jsonData[ "Loan Attributes" ] } for ${ jsonData[ "Sector" ] } ${ jsonData[ "Intent & Financial Context" ] }
 				- Use them in titles, headers, paragraphs, meta tags, and FAQ questions.
 

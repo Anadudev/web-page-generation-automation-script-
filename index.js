@@ -1,11 +1,12 @@
 const express = require("express");
-const promptDatabase = require("./database/promptDatabase.json");
+const promptDatabase = require("./database/v2/promptDatabase.json");
 const {writeFile, createDir, readFile} = require("./utils/fileCRUD");
 const replaceLines = require("./utils/replaceLines");
 const path = require("path");
 const consoleInfo = require("./utils/consoleInfo");
 const files = require("./config/files");
 const {tracker, getTrack} = require("./tracking/tracker");
+const {extractHtmlTextContent} = require("./utils/extractHtmlTextContent");
 const sitemapRouter = require("./routes/sitemapRoutes.js");
 
 const app = express();
@@ -36,14 +37,25 @@ const main = async () => {
         const htmlFileStructure = await readFile(files.htmlStructureFile);
 
         const interval = await consoleInfo(`Read ${files.htmlStructureFile} file ✅ successfully`, index);
-
-        const {pageName, pageContent} = await replaceLines(
-            promptDatabase[index],
-            htmlFileStructure
+        // console.log(promptDatabase[1]["Core-Products"][index]);
+        // return;
+        const response = await replaceLines(
+            promptDatabase[0]["tools"][index],
+            htmlFileStructure,
+            index
         );
+        if (!response) {
+            if (trials >= 5) {
+                throw new Error("Failed to generate page after 5 trials");
+            }
+            console.log(`Attempting to generate index: ${index} again for the ${trials + 1} time...`);
+            return main();
+        }
+
+        const {pageName, pageContent} = response;
         console.info(`Page data setup completed ✅`);
 
-        writeFile(`../article/${pageName}.html`, pageContent);
+        writeFile(`../${pageName}.html`, pageContent);
         interval.stop();
         process.stdout.write("\r✅ Done!          \n");
         index = index + 1;
@@ -72,7 +84,7 @@ const main = async () => {
     }
 };
 
-// main();
+main();
 
 app.get("/", (req, res) => {
     res.status(200).json({
