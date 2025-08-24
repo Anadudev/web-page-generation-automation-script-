@@ -6,12 +6,12 @@ Topic & Context:
 - The url slug ${contextJsonData["URL-Slug"]}
 - Description ${contextJsonData["Description"]}
 
- Non-Negotiable Content & SEO Rules: 
+ Non-Negotiable Content & SEO Rules:
 1.   E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness):  The content must demonstrate strong E-E-A-T.
 6.   Internal Linking:  Include dynamic internal cross-links within the text to related content, where contextually appropriate, to improve site navigation.
 7.   Tone & Style:  Maintain a friendly, conversational, and authoritative tone. Do not use any generic or specific company names. Instead, use words and terms like  "we" ,  "our" , and  "us"  to refer to the service.
 
- Task: 
+ Task:
 Generate a comprehensive blog post for a page about comparing lender rates. The content should be engaging, informative, and built to rank in search engines by strictly following all the rules provided above.
 `;
 module.exports = promptContextPrompt;
