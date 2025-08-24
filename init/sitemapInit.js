@@ -17,7 +17,7 @@ getNewFilenames(mainDirectory, myPrefix)
                 console.log("Original files with new prefix stored in array:");
                 // console.log(newArray2);
                 const allPages = `[${[`"${myPrefix}"`, ...newArray, ...newArray2]}]`;
-                console.log("All site pages:");
+                // console.log("All site pages:", allPages);
                 await writeFile(`../database/sitePages.js`, `module.exports = ${allPages}`);
                 // console.log(allPages);
             })

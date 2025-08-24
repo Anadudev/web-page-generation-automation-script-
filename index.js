@@ -19,7 +19,7 @@ app.use( express.json() );
 // create article folder to store generated pages
 let dirPath = path.join( process.cwd(), "article" );
 createDir( "../article" ).then( r => console.log( `article directory created successfully: ${ dirPath }` ) );
-// extract categories fro tracking
+// extract categories for tracking
 const categories = promptDatabase.map( element => Object.keys( element )[ 0 ] );
 
 const main = async () => {

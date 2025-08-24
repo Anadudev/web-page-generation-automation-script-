@@ -4,7 +4,7 @@ exports.getNewFilenames = async (directoryPath, prefix) => {
     try {
         let files = await fs.readdir(directoryPath);
 
-        files
+        files = files
             .filter(file => file.endsWith(".html"))
             .map(file => {
                 return `
