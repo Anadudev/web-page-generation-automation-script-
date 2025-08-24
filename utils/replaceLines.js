@@ -1,16 +1,17 @@
-const { randomUUID } = require( "crypto" );
-const generateSections = require( "../ai/generateSections" );
+const {randomUUID} = require("crypto");
+const generateSections = require("../ai/generateSections");
 
-const generatePageSlug = require( "./generatePageSlug" );
-const cleanupModelResponse = require( "./cleanUpMOdelResponse" );
-const titlePrompt = require( "./prompts/titlePrompt" );
-const metaDescriptionsPrompt = require( "./prompts/metaDescriptionsPrompt" );
-const promptModel = require( "../ai/promptModel" );
-const promptContextPrompt = require( "./prompts/index" );
-const generatedContexts = require( "../database/contexts.json" );
-const { findSimilarPage } = require( "./comparePages" );
-const { writeFile } = require( "./fileCRUD" );
-const { extractHtmlTextContent } = require( "./extractHtmlTextContent" );
+const generatePageSlug = require("./generatePageSlug");
+const cleanupModelResponse = require("./cleanUpMOdelResponse");
+const titlePrompt = require("./prompts/titlePrompt");
+const metaDescriptionsPrompt = require("./prompts/metaDescriptionsPrompt");
+const promptModel = require("../ai/promptModel");
+const promptContextPrompt = require("./prompts/index");
+const generatedContexts = require("../database/contexts.json");
+const {findSimilarPage} = require("./comparePages");
+const {writeFile} = require("./fileCRUD");
+const {extractHtmlTextContent} = require("./extractHtmlTextContent");
+const {getOnlinePageContent} = require("./baclinking/getOnlinePageContent");
 
 /* <!-- title section -->
         2,       <!--meta descriptions section-->
@@ -28,47 +29,45 @@ const { extractHtmlTextContent } = require( "./extractHtmlTextContent" );
         14,               <!-- Business loan FAQs -->
  */
 
-const replaceLines = async ( contextJsonData, data, index ) => {
+const replaceLines = async (contextJsonData, data, index) => {
 
-    let promptContext = promptContextPrompt( contextJsonData );
-    promptContext = cleanupModelResponse( ( await promptModel( promptContext ) ).text );
-    promptContext = extractHtmlTextContent( promptContext );
+    let promptContext = promptContextPrompt(contextJsonData);
+    promptContext = cleanupModelResponse((await promptModel(promptContext)).text);
+    promptContext = extractHtmlTextContent(promptContext);
 
     const oldIndex = index - 1;
     const similarityThreshold = 0.33;
 
-    let oldPromptContext = generatedContexts[ oldIndex ];
-    console.log( `Performing page comparison...` );
-    if ( index > 0 && ( oldPromptContext[ `promptContext${ oldIndex }` ] ||
-        oldPromptContext[ `promptContext${ oldIndex }` ] === index ) )
-    {
-        console.log( `Similar page found: ${ oldPromptContext.pageContext }` );
+    let oldPromptContext = generatedContexts[oldIndex];
+    console.log(`Performing page comparison...`);
+    if (index > 0 && (oldPromptContext[`promptContext${oldIndex}`] ||
+        oldPromptContext[`promptContext${oldIndex}`] === index)) {
+        console.log(`Similar page found: ${oldPromptContext.pageContext}`);
         return;
     }
 
-    const { similarity, similarPage } = findSimilarPage( generatedContexts, `${ promptContext }`, similarityThreshold );
+    const {similarity, similarPage} = findSimilarPage(generatedContexts, `${promptContext}`, similarityThreshold);
 
-    generatedContexts.push( {
-        [ `promptContext${ index }` ]: index,
+    generatedContexts.push({
+        [`promptContext${index}`]: index,
         "similarity": similarity,
-        "similarPage": similarPage ? similarPage[ Object.keys( similarPage )[ 0 ] ] : null,
+        "similarPage": similarPage ? similarPage[Object.keys(similarPage)[0]] : null,
         "published": similarity >= similarityThreshold,
         pageContext: promptContext
-    } );
+    });
 
-    await writeFile( "./database/contexts.json", JSON.stringify( generatedContexts, null, 2 ) );
-    console.log( `Page comparison completed.` );
-    if ( similarity >= similarityThreshold )
-    {
-        console.log( `Similar page found: ${ similarPage[ Object.keys( similarPage )[ 0 ] ] }` );
+    await writeFile("./database/contexts.json", JSON.stringify(generatedContexts, null, 2));
+    console.log(`Page comparison completed.`);
+    if (similarity >= similarityThreshold) {
+        console.log(`Similar page found: ${similarPage[Object.keys(similarPage)[0]]}`);
         return;
-    };
+    }
 
 
     // const pageId = randomUUID().substring(0, 8);
 
-    console.log( `Processing page content insertion...` );
-    let lines = data.split( "\n" );
+    console.log(`Processing page content insertion...`);
+    let lines = data.split("\n");
     const line1 = 24;
     const line2 = 25;
     const line3 = 48; //<link href="../small-business-loans.html" rel="canonical" />
@@ -116,37 +115,38 @@ const replaceLines = async ( contextJsonData, data, index ) => {
         loanAlternatives,
         whySettleForLess,
         loanFAQS
-    } = await generateSections( contextJsonData, promptContext );
+    } = await generateSections(contextJsonData, promptContext);
 
     // extract h1 text for page name
-    const match = hero.text.match( /<h1[^>]*>([\s\S]*?)<\/h1>/ );
-    const h1TextRegex = match ? match[ 1 ].trim() : null;
+    const match = hero.text.match(/<h1[^>]*>([\s\S]*?)<\/h1>/);
+    const h1TextRegex = match ? match[1].trim() : null;
     // console.log( h1TextRegex );
 
-    let pageName = contextJsonData[ "URL-Slug" ].replace( /^\//, "" );//generatePageSlug(h1TextRegex);
+    let pageName = contextJsonData["URL-Slug"].replace(/^\//, "");//generatePageSlug(h1TextRegex);
 
-    lines[ line1 ] = title.text;
-    lines[ line2 ] = metaDescriptions.text;
-    lines[ line3 ] = `<link href="https://www.contigocf.com${ contextJsonData[ "URL-Slug" ] }" rel="canonical" />`;
-    lines[ line4 ] = hero.text;
-    lines[ line5 ] = howItWorks.text;
-    lines[ line6 ] = whatKindOfLoansAreAvailable.text;
-    lines[ line7 ] = howToApply.text;
-    lines[ line8 ] = eligibility.text;
-    lines[ line9 ] = advantages.text;
-    lines[ line10 ] = disadvantages.text;
-    lines[ line11 ] = whereToGet.text;
-    lines[ line12 ] = loanAlternatives.text;
-    lines[ line13 ] = whySettleForLess.text;
-    lines[ line14 ] = loanFAQS.text;
+    lines[line1] = title.text;
+    lines[line2] = metaDescriptions.text;
+    lines[line3] = `<link href="https://www.contigocf.com${contextJsonData["URL-Slug"]}" rel="canonical" />`;
+    lines[line4] = hero.text;
+    lines[line5] = howItWorks.text;
+    lines[line6] = whatKindOfLoansAreAvailable.text;
+    lines[line7] = howToApply.text;
+    lines[line8] = eligibility.text;
+    lines[line9] = advantages.text;
+    lines[line10] = disadvantages.text;
+    lines[line11] = whereToGet.text;
+    lines[line12] = loanAlternatives.text;
+    lines[line13] = whySettleForLess.text;
+    lines[line14] = loanFAQS.text;
     // pageName = contextJsonData["URL-Slug"].replace(/^\//, "");
     // pageName = contextJsonData["URL-Slug"]//`${pageName}-${pageId}`;
 
-    const fileHtmlData = lines.join( "\n" );
-    const pageContent = cleanupModelResponse( fileHtmlData );
-    console.log( `Page content insertion completed.` );
+    const fileHtmlData = lines.join("\n");
+    const pageContent = cleanupModelResponse(fileHtmlData);
+    // await getOnlinePageContent(pageContent)
+    console.log(`Page content insertion completed.`);
 
-    return { pageName, pageContent };
+    return {pageName, pageContent};
 };
 
 module.exports = replaceLines;
