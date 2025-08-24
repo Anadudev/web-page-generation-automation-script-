@@ -1,5 +1,6 @@
 const {randomUUID} = require("crypto");
 const generateSections = require("../ai/generateSections");
+
 const generatePageSlug = require("./generatePageSlug");
 const cleanupModelResponse = require("./cleanUpMOdelResponse");
 const titlePrompt = require("./prompts/titlePrompt");
@@ -117,8 +118,7 @@ const replaceLines = async (contextJsonData, data, index) => {
 
     lines[line1] = title.text;
     lines[line2] = metaDescriptions.text;
-    lines[line2] = `<link href="https://www.contigocf.com${contextJsonData["URL-Slug"]}" rel="canonical" />`;
-    lines[line3] = metaDescriptions.text;
+    lines[line3] = `<link href="https://www.contigocf.com${contextJsonData["URL-Slug"]}" rel="canonical" />`;
     lines[line4] = hero.text;
     lines[line5] = howItWorks.text;
     lines[line6] = whatKindOfLoansAreAvailable.text;

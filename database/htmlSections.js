@@ -68,7 +68,7 @@ const htmlSections = {
 		    alt="wedge coral Contigo"
 		    class="full-width _80--width hide-mobile"
 		    loading="lazy"
-		    src="../small-business-loans_files/62b09f4c57c6eacad1243b7e_Wedge_coral-6.svg"
+		    src="./small-business-loans_files/62b09f4c57c6eacad1243b7e_Wedge_coral-6.svg"
 		    width="Auto"
 		  />
 		</div>
@@ -78,8 +78,8 @@ const htmlSections = {
 		    class="hero-image hide-mobile"
 		    loading="lazy"
 		    sizes="(max-width: 940px) 100vw, 940px"
-		    src="../reusables/images/small-business-loans/hero2.avif"
-		    srcset="../reusables/images/small-business-loans/hero2.avif"
+		    src="./reusables/images/small-business-loans/hero2.avif"
+		    srcset="./reusables/images/small-business-loans/hero2.avif"
 		    style="border-radius: 50%"
 		  />
 		</div>
@@ -128,7 +128,7 @@ const htmlSections = {
 		  <img
 		    alt="line arc"
 		    loading="lazy"
-		    src="../small-business-loans_files/62bd8dc400da51be7cfef695_line-arc.svg"
+		    src="./small-business-loans_files/62bd8dc400da51be7cfef695_line-arc.svg"
 		  />
 		</div>
 		<div class="title-block tac">
@@ -161,7 +161,7 @@ const htmlSections = {
 			class="accordion-question__icon"
 			data-ga-id="wantToKnowMore__question"
 			loading="lazy"
-			src="../small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
+			src="./small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
 		      />
 		    </div>
 		    <div class="accordion-answer" style="display: none">
@@ -192,7 +192,7 @@ const htmlSections = {
 			class="accordion-question__icon"
 			data-ga-id="wantToKnowMore__question"
 			loading="lazy"
-			src="../small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
+			src="./small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
 		      />
 		    </div>
 		    <div class="accordion-answer" style="display: none">
@@ -241,12 +241,12 @@ const htmlSections = {
 		alt=""
 		class="calculator-shape2"
 		loading="lazy"
-		src="../small-business-loans_files/6340453d76c497f0ce394841_dark-blue-donut.svg"
+		src="./small-business-loans_files/6340453d76c497f0ce394841_dark-blue-donut.svg"
 	      /><img
 		alt=""
 		class="calculator-shape1"
 		loading="lazy"
-		src="../small-business-loans_files/6340453d76c4971c81394844_light-blue-circle.svg"
+		src="./small-business-loans_files/6340453d76c4971c81394844_light-blue-circle.svg"
 	      />
 	      <div class="calculator-box">
 		<h3 class="heading-boxed">
@@ -341,7 +341,7 @@ const htmlSections = {
 	      alt=""
 	      class="calc-shape"
 	      loading="lazy"
-	      src="../small-business-loans_files/6340453d76c4976134394842_arch-with-square.svg"
+	      src="./small-business-loans_files/6340453d76c4976134394842_arch-with-square.svg"
 	    />
 	  </div>`,
 	howToApply: `<div class="container">
@@ -363,7 +363,7 @@ const htmlSections = {
 		  class="full-width"
 		  loading="lazy"
 		  style="max-width: 300px"
-		  src="../small-business-loans_files/648198a51e583cd05d495a59_Borrow-from-1-day-upto-5-years.svg"
+		  src="./small-business-loans_files/648198a51e583cd05d495a59_Borrow-from-1-day-upto-5-years.svg"
 		/>
 	      </div>
 	      <div
@@ -570,7 +570,7 @@ const htmlSections = {
 		  <img
 		    alt="line arc"
 		    loading="lazy"
-		    src="../small-business-loans_files/62bd8dc400da51be7cfef695_line-arc.svg"
+		    src="./small-business-loans_files/62bd8dc400da51be7cfef695_line-arc.svg"
 		  />
 		</div>
 		<div class="title-block tac">
@@ -599,7 +599,7 @@ const htmlSections = {
 			class="accordion-question__icon"
 			data-ga-id="wantToKnowMore__question"
 			loading="lazy"
-			src="../small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
+			src="./small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
 		      />
 		    </div>
 		    <div class="accordion-answer" style="display: none">
@@ -630,7 +630,7 @@ const htmlSections = {
 			class="accordion-question__icon"
 			data-ga-id="wantToKnowMore__question"
 			loading="lazy"
-			src="../small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
+			src="./small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
 		      />
 		    </div>
 		    <div class="accordion-answer" style="display: none">
@@ -662,7 +662,7 @@ const htmlSections = {
 			class="accordion-question__icon"
 			data-ga-id="wantToKnowMore__question"
 			loading="lazy"
-			src="../small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
+			src="./small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
 		      />
 		    </div>
 		    <div class="accordion-answer" style="display: none">
@@ -692,7 +692,7 @@ const htmlSections = {
 			class="accordion-question__icon"
 			data-ga-id="wantToKnowMore__question"
 			loading="lazy"
-			src="../small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
+			src="./small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
 		      />
 		    </div>
 		    <div class="accordion-answer" style="display: none">
@@ -736,7 +736,7 @@ const htmlSections = {
 		  alt="no pound Contigo"
 		  class="featured-item__img"
 		  loading="lazy"
-		  src="../reusables/images/small-business-loans/others1.avif"
+		  src="./reusables/images/small-business-loans/others1.avif"
 		/>
 		<h3 class="mb-0-75">
 		  Price Penalty
@@ -753,7 +753,7 @@ const htmlSections = {
 		  alt="lightning speed icon Contigo"
 		  class="featured-item__img"
 		  loading="lazy"
-		  src="../reusables/images/small-business-loans/others2.avif"
+		  src="./reusables/images/small-business-loans/others2.avif"
 		/>
 		<h3 class="mb-0-75">Rigid Repayment<br /></h3>
 		<p class="small-text">
@@ -765,7 +765,7 @@ const htmlSections = {
 		  alt="wallet icon Contigo"
 		  class="featured-item__img"
 		  loading="lazy"
-		  src="../reusables/images/small-business-loans/others3.avif"
+		  src="./reusables/images/small-business-loans/others3.avif"
 		/>
 		<h3 class="mb-0-75">You pay twice.<br /></h3>
 		<p class="small-text">
@@ -782,7 +782,7 @@ const htmlSections = {
 		  <img
 		    alt="line arc"
 		    loading="lazy"
-		    src="../small-business-loans_files/62bd8dc400da51be7cfef695_line-arc.svg"
+		    src="./small-business-loans_files/62bd8dc400da51be7cfef695_line-arc.svg"
 		  />
 		</div>
 		<div class="title-block tac">
@@ -809,7 +809,7 @@ const htmlSections = {
 			class="accordion-question__icon"
 			data-ga-id="wantToKnowMore__question"
 			loading="lazy"
-			src="../small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
+			src="./small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
 		      />
 		    </div>
 		    <div class="accordion-answer" style="display: none">
@@ -836,7 +836,7 @@ const htmlSections = {
 			class="accordion-question__icon"
 			data-ga-id="wantToKnowMore__question"
 			loading="lazy"
-			src="../small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
+			src="./small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
 		      />
 		    </div>
 		    <div class="accordion-answer" style="display: none">
@@ -869,7 +869,7 @@ const htmlSections = {
 			class="accordion-question__icon"
 			data-ga-id="wantToKnowMore__question"
 			loading="lazy"
-			src="../small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
+			src="./small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
 		      />
 		    </div>
 		    <div class="accordion-answer" style="display: none">
@@ -911,7 +911,7 @@ const htmlSections = {
 			class="accordion-question__icon"
 			data-ga-id="wantToKnowMore__question"
 			loading="lazy"
-			src="../small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
+			src="./small-business-loans_files/62baed12fa61b8e37f68b27d_plus.svg"
 		      />
 		    </div>
 		    <div class="accordion-answer" style="display: none">

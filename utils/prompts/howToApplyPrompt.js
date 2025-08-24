@@ -27,7 +27,7 @@ const howToApplyPrompt = async (contextJsonData, htmlFile, promptContext) => {
     - The content should guide a user through the application process step-by-step.
     
     🎯 Button Text:
-    - Use clear, conversion-oriented labels like “Apply Now” or “Get Started”.
+    - Use clear, conversion-oriented labels example but not limited to “Apply Now” or “Get Started”.
     
     Final Output Format:
     Return the complete HTML document with only the updated inner text content of the "How to apply" section. Do not alter any HTML tags, attributes, or document structure, or add extra completely new elements.

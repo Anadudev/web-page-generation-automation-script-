@@ -22,11 +22,14 @@ const heroPrompt = async (contextJsonData, htmlFile, promptContext) => {
     🧰 Direct Insertion Rules (Strict)
     - For the <h1> inside <div class="main-hero-grid">:
     - Generate a long-tail question using the ${contextJsonData} values.
-    - Include one SEO keyword from ${contextJsonData["Topic - what the generated page is about"]} ${contextJsonData["Description"]}.
+- Include one SEO keyword from ${contextJsonData["Topic - what the generated page is about"]} ${contextJsonData["Description"]}.
     
     📝 All Content Blocks Must:
     - Follow the format: Genuine long-tail question? Answer.
     - Be written with clarity, precision, and readability.
+    
+    🎯 Button Text:
+    - Use clear, conversion-oriented labels example but not limited to “Apply Now” or “Get Started”.
     
     Final Output Format:
     Return the complete HTML document with only the updated inner text content of the hero section. Do not alter any HTML tags, attributes, or document structure, or add extra completely new elements.
