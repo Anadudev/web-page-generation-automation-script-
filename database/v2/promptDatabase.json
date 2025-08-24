@@ -1,0 +1,230 @@
+[
+  {
+    "tools": [
+      {
+        "Topic - what the generated page is about": "Compare lenders rates",
+        "URL-Slug": "/compare",
+        "Description": "Our service specialises in comparing rates from top lenders in under 60s and then negotating the best rates possible on your side with our seasoned human touch brokerage team."
+      }
+    ]
+  },
+  {
+    "Core-Products": [
+      {
+        "Topic - what the generated page is about": "Business-Loans",
+        "URL-Slug": "/business-loans",
+        "Description": "Flexible-term-loans-for-UK-businesses-seeking-funding-for-growth,-stability-or-expansion."
+      },
+      {
+        "Topic - what the generated page is about": "Working-Capital-Loans",
+        "URL-Slug": "/working-capital",
+        "Description": "Short-term-funding-to-cover-everyday-expenses-and-smooth-out-cashflow-gaps."
+      },
+      {
+        "Topic - what the generated page is about": "Invoice-Finance-&-Factoring",
+        "URL-Slug": "/invoice-finance",
+        "Description": "Unlock-cash-tied-up-in-unpaid-invoices-to-improve-cashflow-and-keep-operations-moving."
+      },
+      {
+        "Topic - what the generated page is about": "Invoice-Discounting",
+        "URL-Slug": "/invoice-discounting",
+        "Description": "Confidential-invoice-finance-allowing-businesses-to-access-funds-without-customer-involvement."
+      },
+      {
+        "Topic - what the generated page is about": "Asset-Finance-(Vehicles-&-Equipment)",
+        "URL-Slug": "/asset-finance",
+        "Description": "Spread-the-cost-of-vehicles,-machinery,-and-equipment-with-tailored-finance-solutions."
+      },
+      {
+        "Topic - what the generated page is about": "Merchant-Cash-Advance",
+        "URL-Slug": "/merchant-cash-advance",
+        "Description": "Funding-based-on-future-card-sales-—-ideal-for-retail,-hospitality-and-e-commerce."
+      },
+      {
+        "Topic - what the generated page is about": "Revenue-Based-Finance",
+        "URL-Slug": "/revenue-based-finance",
+        "Description": "Flexible-repayments-tied-directly-to-business-revenue-performance."
+      },
+      {
+        "Topic - what the generated page is about": "VAT-Loans",
+        "URL-Slug": "/vat-loans",
+        "Description": "Loans-to-cover-quarterly-VAT-bills-and-ease-pressure-on-cashflow."
+      },
+      {
+        "Topic - what the generated page is about": "Business-Bridging-Loans",
+        "URL-Slug": "/business-bridging",
+        "Description": "Short-term-finance-to-bridge-funding-gaps-until-longer-term-finance-is-secured."
+      },
+      {
+        "Topic - what the generated page is about": "Short-Term-Cashflow-Loans",
+        "URL-Slug": "/short-term-cashflow",
+        "Description": "Fast-access-loans-to-handle-urgent-business-costs-and-emergencies."
+      },
+      {
+        "Topic - what the generated page is about": "Microloans-&-Small-Business-Loans",
+        "URL-Slug": "/microloans",
+        "Description": "Smaller-loans-designed-for-young-or-growing-businesses-starting-from-£5,000."
+      }
+    ]
+  },
+  {
+    "Specialist-Products": [
+      {
+        "Topic - what the generated page is about": "Commercial-Mortgages",
+        "URL-Slug": "/commercial-mortgage",
+        "Description": "Long-term-funding-for-purchasing-or-refinancing-commercial-property."
+      },
+      {
+        "Topic - what the generated page is about": "Property-Refinance-&-Development-Funding",
+        "URL-Slug": "/developer-funding",
+        "Description": "Finance-options-for-property-developers-and-businesses-needing-large-scale-funding."
+      },
+      {
+        "Topic - what the generated page is about": "Agricultural-&-Farm-Finance",
+        "URL-Slug": "/agricultural-finance",
+        "Description": "Specialist-loans-tailored-for-farming-and-agricultural-businesses."
+      },
+      {
+        "Topic - what the generated page is about": "Construction-&-Trades-Finance",
+        "URL-Slug": "/construction-finance",
+        "Description": "Funding-for-contractors,-builders,-and-trade-businesses-to-manage-projects-and-cashflow."
+      },
+      {
+        "Topic - what the generated page is about": "Hospitality-&-Leisure-Finance",
+        "URL-Slug": "/hospitality-finance",
+        "Description": "Finance-solutions-designed-for-pubs,-restaurants,-hotels,-and-leisure-businesses."
+      },
+      {
+        "Topic - what the generated page is about": "Retail-&-E-Commerce-Finance",
+        "URL-Slug": "/retail-ecommerce-finance",
+        "Description": "Working-capital-and-loan-products-suited-to-retail-and-online-businesses."
+      },
+      {
+        "Topic - what the generated page is about": "Healthcare-&-Care-Home-Finance",
+        "URL-Slug": "/healthcare-finance",
+        "Description": "Sector-specific-loans-for-medical-practices,-dental-surgeries,-and-care-homes."
+      },
+      {
+        "Topic - what the generated page is about": "Franchise-Finance",
+        "URL-Slug": "/franchise-finance",
+        "Description": "Loans-to-help-franchisees-buy,-expand,-or-invest-in-franchise-operations."
+      },
+      {
+        "Topic - what the generated page is about": "Start-Up-Growth-Funding-(6+-Months-Trading)",
+        "URL-Slug": "/startup-growth",
+        "Description": "Funding-for-new-businesses-trading-at-least-six-months-with-£50k+-turnover."
+      },
+      {
+        "Topic - what the generated page is about": "Renovation-&-Development-Finance",
+        "URL-Slug": "/development-finance",
+        "Description": "Finance-for-renovation,-refurbishment,-or-development-projects."
+      },
+      {
+        "Topic - what the generated page is about": "Purchase-Order-(PO)-&-Supplier-Finance",
+        "URL-Slug": "/po-finance",
+        "Description": "Cashflow-support-for-businesses-needing-funds-to-pay-suppliers-against-confirmed-orders."
+      },
+      {
+        "Topic - what the generated page is about": "Export-&-Trade-Finance",
+        "URL-Slug": "/export-trade-finance",
+        "Description": "Finance-solutions-to-support-international-trade,-imports,-and-exports."
+      },
+      {
+        "Topic - what the generated page is about": "Seasonal-&-Cyclical-Business-Loans",
+        "URL-Slug": "/seasonal-finance",
+        "Description": "Funding-designed-for-businesses-with-seasonal-demand-and-income-patterns."
+      },
+      {
+        "Topic - what the generated page is about": "Green-&-Energy-Efficiency-Finance",
+        "URL-Slug": "/green-finance",
+        "Description": "Loans-for-sustainable,-energy-efficient-upgrades-and-environmentally-friendly-projects."
+      },
+      {
+        "Topic - what the generated page is about": "R&D-&-Innovation-Bridging",
+        "URL-Slug": "/r-and-d-bridging",
+        "Description": "Short-term-finance-while-waiting-for-R&D-tax-credits-or-innovation-funding."
+      }
+    ]
+  },
+  {
+    "Security-&-Loan-Types": [
+      {
+        "Topic - what the generated page is about": "Director-Guaranteed-vs-Unsecured-Loans",
+        "URL-Slug": "/secured-vs-unsecured",
+        "Description": "Comparison-of-secured-and-unsecured-lending,-with-guidance-on-director-guarantees."
+      },
+      {
+        "Topic - what the generated page is about": "Bad-Credit-Business-Loans",
+        "URL-Slug": "/bad-credit-loans",
+        "Description": "Options-for-businesses-with-poor-credit-history,-CCJs,-or-missed-payments."
+      },
+      {
+        "Topic - what the generated page is about": "Sale-&-Leaseback-Finance",
+        "URL-Slug": "/sale-leaseback",
+        "Description": "Unlock-capital-by-selling-assets-and-leasing-them-back-for-continued-use."
+      }
+    ]
+  },
+  {
+    "Security-&-Loan-Types": [
+      {
+        "Topic - what the generated page is about": "How-It-Works",
+        "URL-Slug": "/how-it-works",
+        "Description": "Step-by-step-overview-of-our-simple-business-finance-process."
+      },
+      {
+        "Topic - what the generated page is about": "Documentation-Checklist",
+        "URL-Slug": "/document-checklist",
+        "Description": "List-of-required-documents-(bank-statements,-ID,-turnover-evidence)-for-applications."
+      },
+      {
+        "Topic - what the generated page is about": "Eligibility-Criteria",
+        "URL-Slug": "/eligibility",
+        "Description": "Minimum-requirements:-6+-months-trading,-£50k+-turnover,-UK-registered,-£5k–£1m-loan-size."
+      }
+    ]
+  },
+  {
+    "Resources-&-Learning": [
+      {
+        "Topic - what the generated page is about": "Blog-&-Insights",
+        "URL-Slug": "/blog",
+        "Description": "Latest-news,-tips,-and-finance-insights-for-UK-businesses."
+      },
+      {
+        "Topic - what the generated page is about": "FAQs",
+        "URL-Slug": "/faqs",
+        "Description": "Answers-to-the-most-common-questions-about-business-loans-and-eligibility."
+      }
+    ]
+  },
+  {
+    "Contact-&-Trust": [
+      {
+        "Topic - what the generated page is about": "Book-a-Consultation",
+        "URL-Slug": "/book-consultation",
+        "Description": "Schedule-a-free-consultation-with-one-of-our-finance-experts."
+      },
+      {
+        "Topic - what the generated page is about": "Apply-Now",
+        "URL-Slug": "/apply",
+        "Description": "Start-a-simple,-no-obligation-online-application-today."
+      },
+      {
+        "Topic - what the generated page is about": "Eligibility-Checker",
+        "URL-Slug": "/eligibility-checker",
+        "Description": "Quickly-check-if-your-business-meets-our-minimum-lending-criteria."
+      },
+      {
+        "Topic - what the generated page is about": "Contact-Us",
+        "URL-Slug": "/contact",
+        "Description": "Get-in-touch-with-our-team-via-phone-or-email-for-tailored-support."
+      },
+      {
+        "Topic - what the generated page is about": "Data-Security-&-Compliance",
+        "URL-Slug": "/data-security",
+        "Description": "How-we-protect-customer-information-and-maintain-strict-regulatory-compliance."
+      }
+    ]
+  }
+]
