@@ -11,7 +11,6 @@ const generatedContexts = require("../database/contexts.json");
 const {findSimilarPage} = require("./comparePages");
 const {writeFile} = require("./fileCRUD");
 const {extractHtmlTextContent} = require("./extractHtmlTextContent");
-const {getOnlinePageContent} = require("./baclinking/getOnlinePageContent");
 
 /* <!-- title section -->
         2,       <!--meta descriptions section-->
