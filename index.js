@@ -43,14 +43,21 @@ const main = async () => {
             await categoryTracker( categoryIndex );
             // await tracker( index );
             console.log( `Switching to category: ${ categories[ categoryIndex ] } starting from index: ${ index }` );
+        } else if ( categoryIndex == promptDatabase[ categoryIndex ].length &&
+            index == promptDatabase[ categoryIndex ][ categories[ categoryIndex ] ].length )
+        {
+            console.log( `All pages generated successfully!` );
+            return;
+
         }
         const response = await replaceLines(
             promptDatabase[ categoryIndex ][ categories[ categoryIndex ] ][ index ],
             htmlFileStructure,
-            index
+            index,
+            categories[ categoryIndex ]
         );
 
-        if ( !response )
+        if ( response.retry )
         {
             if ( trials >= 5 )
             {
@@ -58,6 +65,14 @@ const main = async () => {
             }
             console.log( `Attempting to generate index: ${ index } again for the ${ trials + 1 } time...` );
             trials = trials + 1;
+            return main();
+        } else if ( response.skip )
+        {
+            if ( trials >= 5 )
+            {
+                throw new Error( "Failed to generate page after 5 trials" );
+            }
+            console.log( `Skipping index: ${ index } again for the ${ trials + 1 } time...` );
             index = index + 1;
             return main();
         }
